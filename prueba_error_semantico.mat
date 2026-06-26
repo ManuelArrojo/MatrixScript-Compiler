@@ -1,0 +1,4 @@
+// Error semántico: multiplicación no válida por dimensiones
+matriz A = [[1, 2, 3], [4, 5, 6]];
+matriz B = [[1, 2], [3, 4]];
+imprimir mult(A, B);

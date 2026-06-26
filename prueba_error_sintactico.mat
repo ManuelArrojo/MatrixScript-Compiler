@@ -1,0 +1,3 @@
+// Error sintáctico: falta cerrar estructura y ';'
+matriz A = [[1, 2], [3, 4]
+imprimir A;
